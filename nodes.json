@@ -3,7 +3,7 @@
     "theforeman.example.com": {
       ":ip": "192.168.35.5",
       "ports": [],
-      ":memory": 1024,
+      ":memory": 2044,
       ":box": "puppetlabs/centos-7.0-64-puppet",
       ":bootstrap": "bootstrap-foreman.sh"
     },
